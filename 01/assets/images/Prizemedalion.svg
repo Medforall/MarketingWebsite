@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 60 60"
+	 style="enable-background:new 0 0 60 60;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#535353;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:none;stroke:#535353;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;}
+</style>
+<desc>Created with Sketch.</desc>
+<g id="outlined" sketch:type="MSPage">
+	<g id="Activities_sliced" transform="translate(-720.000000, 0.000000)" sketch:type="MSLayerGroup">
+	</g>
+	<g id="Activities" transform="translate(-734.000000, -1.000000)" sketch:type="MSLayerGroup">
+		<g id="Prizemedalion" transform="translate(741.000000, 9.000000)" sketch:type="MSShapeGroup">
+			<circle id="Oval-810" class="st0" cx="23" cy="33" r="14"/>
+			<circle id="Oval-811" class="st0" cx="23" cy="33" r="10"/>
+			<path id="Path-1890" class="st0" d="M20.27,29.38L23,27.59V38"/>
+			<path id="Line" class="st1" d="M27,19L38,0"/>
+			<path id="Line_1_" class="st1" d="M19,19L8,0"/>
+			<path id="Line_2_" class="st1" d="M11,24L0,5"/>
+			<path id="Line_3_" class="st1" d="M35,24L46,5"/>
+		</g>
+	</g>
+</g>
+</svg>
