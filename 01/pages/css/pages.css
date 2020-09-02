@@ -381,7 +381,7 @@ body.pace-white .pace .pace-progress {
 .header .menu > li {
   display: inline-block;
   list-style: none;
-  font-size: 13px;
+  font-size: 18px;
   margin-right: 12px;
   vertical-align: middle;
 }
@@ -639,7 +639,7 @@ body.pace-white .pace .pace-progress {
   text-transform: uppercase;
   font-family: 'Montserrat';
   opacity: 0.5;
-  font-size: 11px;
+  font-size: 10px;
   line-height: 30px;
 }
 .header .menu > li > .classic ul > li a:focus {
@@ -2079,7 +2079,7 @@ hr.dotted {
   color: #2c2c2c !important;
 }
 .text-white {
-  color: #fff !important;
+  color: #000000 !important;
 }
 .text-complete {
   color: #48b0f7 !important;
